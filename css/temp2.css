@@ -759,17 +759,20 @@ header .menu{
     background-color: #fcfcfc;
     border-top: solid 1px var(--main-color);
     padding: 30px 0;
+    position: relative;
 }
-.pricing .price-boxes .price-box span:first-of-type{
+.pricing .price-boxes .price-box span{
+    display: block;
     font-size: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 130px;
 }
 .pricing .price-boxes .price-box p{
     font-weight: bold;
     font-size: 60px;
-    position: relative;
+    position: absolute;
+    top: 80px;
     left: 50%;
-    transform: translatex(-56%);
+    transform: translatex(-65%);
 }
 .pricing .price-boxes .price-box p sup{
     font-weight: normal;
