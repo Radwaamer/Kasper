@@ -203,7 +203,7 @@ header .menu{
 /* start landing */
 .landing{
     background-color: black;
-    background-image: url(https://raw.githubusercontent.com/ElzeroWebSchool/HTML_And_CSS_Template_Two/main/images/landing.jpg);
+    background-image: url(../images/landing.jpg);
     background-size: cover;
     height: 100vh;
     position: relative;
@@ -328,7 +328,7 @@ header .menu{
 
 /* start design */
 .design{
-    background-image: url(https://raw.githubusercontent.com/ElzeroWebSchool/HTML_And_CSS_Template_Two/main/images/design-features.jpg);
+    background-image: url(../images/design-features.jpg);
     background-size: cover;
     position: relative;
     overflow: hidden;
@@ -544,7 +544,7 @@ header .menu{
 
 /* start statics */
 .statics{
-    background-image: url(https://raw.githubusercontent.com/ElzeroWebSchool/HTML_And_CSS_Template_Two/main/images/stats.png);
+    background-image: url(../images/stats.png);
     background-size: cover;
     position: relative;
     padding: var(--padding) 0;
@@ -712,7 +712,7 @@ header .menu{
 /* start qoute */
 .qoute{
     color: white;
-    background-image: url(https://raw.githubusercontent.com/ElzeroWebSchool/HTML_And_CSS_Template_Two/main/images/quote.jpg);
+    background-image: url(../images/quote.jpg);
     background-size: cover;
     padding-top: var(--padding);
     padding-bottom: var(--padding);
@@ -830,7 +830,7 @@ header .menu{
     font-size: 20px;
 }
 .special-contact .subscribe{
-    background-image: url(https://raw.githubusercontent.com/ElzeroWebSchool/HTML_And_CSS_Template_Two/main/images/subscribe.jpg);
+    background-image: url(../images/subscribe.jpg);
     background-size: cover;
     padding-top: var(--padding);
     padding-bottom: var(--padding);
@@ -979,7 +979,7 @@ header .menu{
 
 /* start footer */
 footer{
-    background-image: url(https://raw.githubusercontent.com/ElzeroWebSchool/HTML_And_CSS_Template_Two/main/images/subscribe.jpg);
+    background-image: url(../images/subscribe.jpg);
     color: white;
     padding-bottom: calc( var(--padding) / 2 );
     padding-top: calc( var(--padding) / 2 );
