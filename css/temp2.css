@@ -287,7 +287,7 @@ header .menu{
 /* start services */
 .services .container .serv-cont{
     display: grid;
-    grid-template-columns: repeat(auto-fill , minmax(500px, 1fr));
+    grid-template-columns: repeat(auto-fill , minmax(400px, 1fr));
     column-gap: 30px;
     row-gap: 70px;
     padding-bottom: var(--padding);
